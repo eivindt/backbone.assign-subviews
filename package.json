@@ -1,0 +1,18 @@
+{
+	"name":		"backbone.assign-subviews",
+	"version":	"0.0.1",
+	"description":	"A backbone mixin for assigning subviews to your Backbone.js applications",
+	"main":		"backbone.assign-subviews.js"
+	"repository":	{
+			"type": "git",
+			"url": "https://github.com/eivindt/backbone.assign-subviews"
+	},
+	"peerDependencies": {
+		"backbone": ">= 1.1.0"
+	},
+	"author": {
+		"name": "Eivind Tagseth <eivindt@gmail.com>"
+	},
+	"license": "MIT",
+	"readmeFilename": "README.md"
+}
