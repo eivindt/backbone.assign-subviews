@@ -2,6 +2,7 @@
 	"name":		"backbone.assign-subviews",
 	"version":	"0.0.1",
 	"homepage":	"http://github.com/eivindt/backbone.assign-subviews",
+	"main":		"backbone.assign-subviews.js",
 	"repository":	{
 			"type": "git",
 			"url": "https://github.com/eivindt/backbone.assign-subviews"
@@ -15,6 +16,9 @@
 		"subviews",
 		"views",
 		"view"
+	],
+	"ignore": [
+		".gitignore"
 	],
 	"dependencies": {
 		"backbone": ">= 1.1.0"
